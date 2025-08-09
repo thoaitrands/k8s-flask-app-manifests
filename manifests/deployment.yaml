@@ -23,4 +23,4 @@ spec:
         - name: APP_VERSION
           value: "v1.0.0"
         - name: FLASK_ENV
-          value: production
+          value: RONALDO
